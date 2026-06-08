@@ -3,6 +3,17 @@
 ## Overview
 Fortnite Win Tracker 2 is a desktop application that allows users to update and track their victories across different game modes in Fortnite: Battle Royale. Initially developed in Python during the COVID-19 lockdown, this project has been upgraded using Java and Java GUI frameworks to enhance functionality and user experience. This application is part of a personal project to explore advanced programming techniques and user interface design.
 
+## Features
+- **Win Tracking**: Users can enter and view their total wins for each game mode.
+- **Data Persistence**: Wins are recorded and stored locally, allowing users to keep track over time.
+- **Interactive GUI**: Utilizes Java Swing to provide a responsive and intuitive interface.
+- **Live Data Updates**: Changes in wins are immediately reflected in the GUI from the stored data.
+
+## Tech Stack
+
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=coffeescript)
+![Java Swing](https://img.shields.io/badge/Java_Swing-orange?style=for-the-badge&logo=coffeescript)
+
 ## Screenshots
 
 ### Main GUI
@@ -16,12 +27,6 @@ The main interface of the Fortnite Win Tracker 2 features a vibrant "Victory Roy
 ![editing-values](images/editing-values.PNG)
 
 When editing win counts, the values are visually highlighted to indicate unsaved changes, providing a clear, immediate visual cue that modifications have been made. This feature helps prevent accidental data loss and supports precise user input management.
-
-## Features
-- **Win Tracking**: Users can enter and view their total wins for each game mode.
-- **Data Persistence**: Wins are recorded and stored locally, allowing users to keep track over time.
-- **Interactive GUI**: Utilizes Java Swing to provide a responsive and intuitive interface.
-- **Live Data Updates**: Changes in wins are immediately reflected in the GUI from the stored data.
 
 ## Learning Outcomes
 Through the development of Fortnite Win Tracker 2, I have gained proficiency in several technical areas:
